@@ -1,0 +1,416 @@
+path,      type,  gender, size,  name,  name_ii,  more_names
+
+###
+## values for size:
+##    u -  unisize / universal
+##    l -  large   (use for "classic" male size)
+##    s -  small   (used for "classic" female size (-2/-2px))
+
+
+
+###########################
+# basic - archetypes
+#   + (female) unisize archetypes
+
+1bit/human-i.png,               Human, m, l,    Human, B&W,  Male B&W | Male 1-Bit
+faceless/human-i_darker.png,    Human, m, l,    Human, 1,  Male 1-I | Male 1 | Man 1 |  ♂ 1
+faceless/human-i_dark.png,      Human, m, l,    Human, 2,  Male 2-I | Male 2 | Man 2 |  ♂ 2
+faceless/human-i_light.png,     Human, m, l,    Human, 3,  Male 3-I | Male 3 | Man 3 |  ♂ 3
+faceless/human-i_lighter.png,   Human, m, l,    Human, 4,  Male 4-I | Male 4 | Man 4 |  ♂ 4
+
+basic/human-male_darker.png,    Human, m, l,    Human, 1,  Male 1 | Man 1 |  ♂ 1
+basic/human-male_dark.png,      Human, m, l,    Human, 2,  Male 2 | Man 2 |  ♂ 2
+basic/human-male_light.png,     Human, m, l,    Human, 3,  Male 3 | Man 3 |  ♂ 3
+basic/human-male_lighter.png,   Human, m, l,    Human, 4,  Male 4 | Man 4 |  ♂ 4
+
+natural/human-male_darker.png,    Human, m, l,    Human, 1,  Male 1 | Man 1 |  ♂ 1
+natural/human-male_dark.png,      Human, m, l,    Human, 2,  Male 2 | Man 2 |  ♂ 2
+natural/human-male_light.png,     Human, m, l,    Human, 3,  Male 3 | Man 3 |  ♂ 3
+natural/human-male_lighter.png,   Human, m, l,    Human, 4,  Male 4 | Man 4 |  ♂ 4
+
+
+1bit/human-ii.png,              Human, f, l,    Human, B&W,  Female B&W | Female 1-Bit
+faceless/human-ii_darker.png,   Human, f, l,    Human, 1,  Female 1-I | Female 1 | Woman 1 | Lady 1 | ♀ 1
+faceless/human-ii_dark.png,     Human, f, l,    Human, 2,  Female 2-I | Female 2 | Woman 2 | Lady 2 | ♀ 2
+faceless/human-ii_light.png,    Human, f, l,    Human, 3,  Female 3-I | Female 3 | Woman 3 | Lady 3 | ♀ 3
+faceless/human-ii_lighter.png,  Human, f, l,    Human, 4,  Female 4-I | Female 4 | Woman 4 | Lady 4 | ♀ 4
+
+unisize/human-female_darker.png,   Human, f, l,    Human, 1,  Female 1 | Woman 1 | Lady 1 | ♀ 1
+unisize/human-female_dark.png,     Human, f, l,    Human, 2,  Female 2 | Woman 2 | Lady 2 | ♀ 2
+unisize/human-female_light.png,    Human, f, l,    Human, 3,  Female 3 | Woman 3 | Lady 3 | ♀ 3
+unisize/human-female_lighter.png,  Human, f, l,    Human, 4,  Female 4 | Woman 4 | Lady 4 | ♀ 4
+
+basic/human-female_darker.png,  Human, f, s,    Human, 1,  Female 1 | Woman 1 | Lady 1 | ♀ 1
+basic/human-female_dark.png,    Human, f, s,    Human, 2,  Female 2 | Woman 2 | Lady 2 | ♀ 2
+basic/human-female_light.png,   Human, f, s,    Human, 3,  Female 3 | Woman 3 | Lady 3 | ♀ 3
+basic/human-female_lighter.png, Human, f, s,    Human, 4,  Female 4 | Woman 4 | Lady 4 | ♀ 4
+
+natural/human-female_darker.png,  Human, f, s,    Human, 1,  Female 1 | Woman 1 | Lady 1 | ♀ 1
+natural/human-female_dark.png,    Human, f, s,    Human, 2,  Female 2 | Woman 2 | Lady 2 | ♀ 2
+natural/human-female_light.png,   Human, f, s,    Human, 3,  Female 3 | Woman 3 | Lady 3 | ♀ 3
+natural/human-female_lighter.png, Human, f, s,    Human, 4,  Female 4 | Woman 4 | Lady 4 | ♀ 4
+
+
+
+basic/zombie-male.png,          Zombie, m, l,   Zombie,,
+natural/zombie-male.png,        Zombie, m, l,   Zombie,,
+natural/zombie-male_v2.png,     Zombie, m, l,   Zombie,,
+unisize/zombie-female.png,      Zombie, f, l,   Zombie,,    Lady Zombie
+basic/zombie-female.png,        Zombie, f, s,   Zombie,,    Lady Zombie
+
+
+basic/ape-male.png,             Ape,    m, l,    Ape,,
+natural/ape-male.png,           Ape,    m, l,    Ape,,
+natural/ape-male_v2.png,        Ape,    m, l,    Ape,,
+unisize/ape-female.png,         Ape,    f, l,    Ape,,       Lady Ape
+basic/ape-female.png,           Ape,    f, s,    Ape,,       Lady Ape
+
+
+1bit/alien-i.png,               Alien, m, l,     Alien, B&W,  Alien 1-Bit | Alien Male 1-Bit
+basic/alien-male.png,           Alien,  m, l,    Alien,,
+natural/alien-male.png,         Alien,  m, l,    Alien,,
+natural/alien-male_v2.png,      Alien,  m, l,    Alien,,
+1bit/alien-ii.png,              Alien,  f, l,    Alien, B&W,  Alien Female 1-Bit
+unisize/alien-female.png,       Alien,  f, l,    Alien,,     Lady Alien
+basic/alien-female.png,         Alien,  f, s,    Alien,,     Lady Alien
+
+
+
+
+#####################################
+# planet apes - archetypes
+
+planet-apes/ape-zombie-male.png,   Zombie,  m, l,  Zombie (Ape),,
+natural/zombie-male_(ape).png,     Zombie,  m, l,  Zombie (Ape),,
+
+planet-apes/ape-alien-male.png,    Alien,   m, l, Alien (Ape),,
+natural/alien-male_(ape).png,      Alien,   m, l, Alien (Ape),,
+
+
+##################################
+# more - archetypes
+
+1bit/demon-i.png,                Demon,   m, l, Demon, B&W,  Demon 1-Bit | Demon Male 1-Bit
+more/demon-male.png,             Demon,   m, l, Demon,,
+natural/demon-male.png,          Demon,   m, l, Demon,,
+1bit/demon-ii.png,               Demon,   f, l, Demon, B&W, Demon Female 1-Bit
+unisize/demon-female.png,        Demon,   f, l, Demon,,   Lady Demon
+more/demon-female.png,           Demon,   f, s, Demon,,   Lady Demon
+
+
+more/ghost-male.png,             Ghost,   m, l, Ghost,,
+unisize/ghost-female.png,        Ghost,   f, l, Ghost,,   Lady Ghost
+more/ghost-female.png,           Ghost,   f, s, Ghost,,   Lady Ghost
+
+
+more/mummy-male.png,             Mummy,   m, l, Mummy,,
+unisize/mummy-female.png,        Mummy,   f, l, Mummy,,   Lady Mummy
+more/mummy-female.png,           Mummy,   f, s, Mummy,,   Lady Mummy
+
+
+1bit/orc-i.png,                  Orc,     m, l, Orc, B&W,  Orc 1-Bit | Orc Male 1-Bit
+more/orc-male.png,               Orc,     m, l, Orc,,
+1bit/orc-ii.png,                 Orc,     f, l, Orc, B&W, Orc Female 1-Bit
+unisize/orc-female.png,          Orc,     f, l, Orc,,     Lady Orc
+more/orc-female.png,             Orc,     f, s, Orc,,     Lady Orc
+
+
+1bit/robot-i.png,                Robot,   m, l, Robot, B&W,  Robot 1-Bit | Robot Male 1-Bit
+more/robot-male.png,             Robot,   m, l, Robot,,
+1bit/robot-ii.png,               Robot,   f, l, Robot, B&W, Robot Female 1-Bit
+unisize/robot-female.png,        Robot,   f, l, Robot,,   Lady Robot
+more/robot-female.png,           Robot,   f, s, Robot,,   Lady Robot
+
+
+more/skeleton-male.png,          Skeleton, m, l, Skeleton,,
+natural/skeleton-male.png,       Skeleton, m, l, Skeleton,,
+unisize/skeleton-female.png,     Skeleton, f, l, Skeleton,,  Lady Skeleton
+more/skeleton-female.png,        Skeleton, f, s, Skeleton,,  Lady Skeleton
+
+
+1bit/vampire-i.png,              Vampire,  m, l, Vampire, B&W,  Vampire 1-Bit | Vampire Male 1-Bit
+more/vampire-male.png,           Vampire,  m, l, Vampire,,
+1bit/vampire-ii.png,              Vampire,  f, l, Vampire, B&W, Vampire Female 1-Bit
+unisize/vampire-female.png,      Vampire,  f, l, Vampire,,   Lady Vamp | Lady Vampire
+more/vampire-female.png,         Vampire,  f, s, Vampire,,   Lady Vamp | Lady Vampire
+
+1bit/frankenstein-i.png,        Frankenstein,  m, l, Frankenstein, B&W,  Frankenstein 1-Bit | Frankenstein Male 1-Bit
+more/frankenstein-male.png,      Frankenstein, m, l,  Frankenstein,,
+1bit/frankenstein-ii.png,        Frankenstein,  f, l, Frankenstein, B&W, Frankenstein Female 1-Bit
+unisize/frankenstein-female.png,   Frankenstein, f, l,  Frankenstein,,
+more/frankenstein-female.png,     Frankenstein, f, s,  Frankenstein,,
+
+more/jack-o-lantern-male.png,      Jack-O-Lantern, m, l,  Jack-O-Lantern,,
+unisize/jack-o-lantern-female.png,     Jack-O-Lantern, f, l,  Jack-O-Lantern,,
+more/jack-o-lantern-female.png,     Jack-O-Lantern, f, s,  Jack-O-Lantern,,
+
+more/joker-male.png,         Joker, m, l,  Joker,,
+unisize/joker-female.png,     Joker, f, l,  Joker,,
+more/joker-female.png,        Joker, f, s,  Joker,,
+
+more/scream-male.png,      Scream, m, l,  Scream,,
+unisize/scream-female.png,  Scream, f, l,  Scream,,
+more/scream-female.png,     Scream, f, s,  Scream,,
+
+
+cyborgs/cyborg-male1.png,     Cyborg,  m, l,  Cyborg, 1
+cyborgs/cyborg-male2.png,     Cyborg,  m, l,  Cyborg, 2
+cyborgs/cyborg-male3.png,     Cyborg,  m, l,  Cyborg, 3
+cyborgs/cyborg-male4.png,     Cyborg,  m, l,  Cyborg, 4
+cyborgs/cyborg-female1.png,     Cyborg,  f, s,  Cyborg, 1
+cyborgs/cyborg-female2.png,     Cyborg,  f, s,  Cyborg, 2
+cyborgs/cyborg-female3.png,     Cyborg,  f, s,  Cyborg, 3
+cyborgs/cyborg-female4.png,     Cyborg,  f, s,  Cyborg, 4
+cyborgs/cyborg-male-metal.png,     Cyborg,  m, l,  Cyborg, Metal
+cyborgs/cyborg-female-metal.png,     Cyborg,  f, s,  Cyborg, Metal
+cyborgs/cyborg-ape.png,             Cyborg,  m, l,  Cyborg, Ape
+cyborgs/cyborg-ape-metal.png,     Cyborg,  m, l,  Cyborg, Ape Metal
+
+
+##############################
+# (dr. ellis) monk skin tones
+
+monk/male_10.png,  Human, m, l, Human, M10, Male M10 | Male MST10
+monk/male_09.png,  Human, m, l, Human, M09, Male M09 | Male MST09
+monk/male_08.png,  Human, m, l, Human, M08, Male M08 | Male MST08
+monk/male_07.png,  Human, m, l, Human, M07, Male M07 | Male MST07
+monk/male_06.png,  Human, m, l, Human, M06, Male M06 | Male MST06
+monk/male_05.png,  Human, m, l, Human, M05, Male M05 | Male MST05
+monk/male_04.png,  Human, m, l, Human, M04, Male M04 | Male MST04
+monk/male_03.png,  Human, m, l, Human, M03, Male M03 | Male MST03
+monk/male_02.png,  Human, m, l, Human, M02, Male M02 | Male MST02
+monk/male_01.png,  Human, m, l, Human, M01, Male M01 | Male MST01
+
+monk/female_10.png,  Human, f, s, Human, M10, Female M10 | Female MST10
+monk/female_09.png,  Human, f, s, Human, M09, Female M09 | Female MST09
+monk/female_08.png,  Human, f, s, Human, M08, Female M08 | Female MST08
+monk/female_07.png,  Human, f, s, Human, M07, Female M07 | Female MST07
+monk/female_06.png,  Human, f, s, Human, M06, Female M06 | Female MST06
+monk/female_05.png,  Human, f, s, Human, M05, Female M05 | Female MST05
+monk/female_04.png,  Human, f, s, Human, M04, Female M04 | Female MST04
+monk/female_03.png,  Human, f, s, Human, M03, Female M03 | Female MST03
+monk/female_02.png,  Human, f, s, Human, M02, Female M02 | Female MST02
+monk/female_01.png,  Human, f, s, Human, M01, Female M01 | Female MST01
+
+
+
+###############################
+# united colors of humanity  - archetypes
+
+united/male_chocolate.png,   Human, m, l, Human, Chocolate,  Male Chocolate
+united/male_espresso.png,    Human, m, l, Human, Espresso,   Male Espresso
+united/male_golden.png,      Human, m, l, Human, Golden,     Male Golden
+united/male_umber.png,       Human, m, l, Human, Umber,      Male Umber
+united/male_bronze.png,      Human, m, l, Human, Bronze,     Male Bronze
+united/male_chestnut.png,    Human, m, l, Human, Chestnut,   Male Chestnut
+
+united/male_almond.png,      Human, m, l, Human, Almond,     Male Almond
+united/male_band.png,        Human, m, l, Human, Band,       Male Band
+united/male_honey.png,       Human, m, l, Human, Honey,      Male Honey
+united/male_sienna.png,      Human, m, l, Human, Sienna,     Male Sienna
+united/male_beige.png,       Human, m, l, Human, Beige,      Male Beige
+united/male_limestone.png,   Human, m, l, Human, Limestone,  Male Limestone
+
+united/male_rose_beige.png,  Human, m, l, Human, Rose Beige, Male Rose Beige
+united/male_sand.png,        Human, m, l, Human, Sand,       Male Sand
+united/male_warm_ivory.png,  Human, m, l, Human, Warm Ivory, Male Warm Ivory
+united/male_pale_ivory.png,  Human, m, l, Human, Pale Ivory, Male Pale Ivory
+united/male_porcelain.png,   Human, m, l, Human, Porcelain,  Male Porcelain
+united/male_ivory.png,       Human, m, l, Human, Ivory,      Male Ivory
+
+
+
+united/male_orange.png,      Human, m, l, Human, Orange,     Male Orange
+united/male_warm_red.png,    Human, m, l, Human, Warm Red,   Male Warm Red
+united/male_red.png,         Human, m, l, Human, Red,        Male Red
+united/male_rubine_red.png,  Human, m, l, Human, Rubine Red, Male Rubine Red
+united/male_pink.png,        Human, m, l, Human, Pink | Barbie Pink, Male Pink | Male Barbie Pink
+
+united/male_purple.png,      Human, m, l, Human, Purple,   Male Purple
+united/male_blue.png,        Human, m, l, Human, Blue,     Male Blue
+united/male_violet.png,      Human, m, l, Human, Violet,   Male Violet
+
+united/male_yellow.png,      Human, m, l, Human, Yellow,   Male Yellow
+
+
+
+united/female_chocolate.png,   Human, f, s, Human, Chocolate,  Female Chocolate
+united/female_espresso.png,    Human, f, s, Human, Espresso,   Female Espresso
+united/female_golden.png,      Human, f, s, Human, Golden,     Female Golden
+united/female_umber.png,       Human, f, s, Human, Umber,      Female Umber
+united/female_bronze.png,      Human, f, s, Human, Bronze,     Female Bronze
+united/female_chestnut.png,    Human, f, s, Human, Chestnut,   Female Chestnut
+
+united/female_almond.png,      Human, f, s, Human, Almond,     Female Almond
+united/female_band.png,        Human, f, s, Human, Band,       Female Band
+united/female_honey.png,       Human, f, s, Human, Honey,      Female Honey
+united/female_sienna.png,      Human, f, s, Human, Sienna,     Female Sienna
+united/female_beige.png,       Human, f, s, Human, Beige,      Female Beige
+united/female_limestone.png,   Human, f, s, Human, Limestone,  Female Limestone
+
+united/female_rose_beige.png,  Human, f, s, Human, Rose Beige, Female Rose Beige
+united/female_sand.png,        Human, f, s, Human, Sand,       Female Sand
+united/female_warm_ivory.png,  Human, f, s, Human, Warm Ivory, Female Warm Ivory
+united/female_pale_ivory.png,  Human, f, s, Human, Pale Ivory, Female Pale Ivory
+united/female_porcelain.png,   Human, f, s, Human, Porcelain,  Female Porcelain
+united/female_ivory.png,       Human, f, s, Human, Ivory,      Female Ivory
+
+
+united/female_orange.png,      Human, f, s, Human, Orange,     Female Orange
+united/female_warm_red.png,    Human, f, s, Human, Warm Red,   Female Warm Red
+united/female_red.png,         Human, f, s, Human, Red,        Female Red
+united/female_rubine_red.png,  Human, f, s, Human, Rubine Red, Female Rubine Red
+united/female_pink.png,        Human, f, s, Human, Pink | Barbie Pink, Female Pink | Female Barbie Pink
+
+united/female_purple.png,      Human, f, s, Human, Purple,   Female Purple
+united/female_blue.png,        Human, f, s, Human, Blue,     Female Blue
+united/female_violet.png,      Human, f, s, Human, Violet,   Female Violet
+
+united/female_yellow.png,      Human, f, s, Human, Yellow,   Female Yellow
+
+
+
+###########################
+# gold(en) - archetypes
+
+gold/male_gold_1.png,      Human, m, l, Human, Gold 1 | Gold,   Male Gold 1 | Male Gold
+gold/male_gold_2.png,      Human, m, l, Human, Gold 2 | Goldenrod,  Male Gold 2 | Male Goldenrod
+gold/male_gold_3.png,      Human, m, l, Human, Gold 3 | Dark Goldenrod,  Male Gold 3 | Male Dark Goldenrod
+
+gold/female_gold_1.png,      Human, f, s, Human, Gold 1 | Gold,   Female Gold 1 | Female Gold
+gold/female_gold_2.png,      Human, f, s, Human, Gold 2 | Goldenrod,  Female Gold 2 | Female Goldenrod
+gold/female_gold_3.png,      Human, f, s, Human, Gold 3 | Dark Goldenrod,  Female Gold 3 | Female Dark Goldenrod
+
+
+gold/zombie-male_gold_1.png,   Zombie, m, l, Zombie, Gold 1 | Gold,
+gold/zombie-male_gold_2.png,   Zombie, m, l, Zombie, Gold 2 | Goldenrod,
+gold/zombie-male_gold_3.png,   Zombie, m, l, Zombie, Gold 3 | Dark Goldenrod,
+
+gold/zombie-female_gold_1.png,   Zombie, f, s, Zombie, Gold 1 | Gold,
+gold/zombie-female_gold_2.png,   Zombie, f, s, Zombie, Gold 2 | Goldenrod,
+gold/zombie-female_gold_3.png,   Zombie, f, s, Zombie, Gold 3 | Dark Goldenrod,
+
+
+gold/ape-male_gold_1.png,   Ape, m, l, Ape, Gold 1 | Gold,
+gold/ape-male_gold_2.png,   Ape, m, l, Ape, Gold 2 | Goldenrod,
+gold/ape-male_gold_3.png,   Ape, m, l, Ape, Gold 3 | Dark Goldenrod,
+
+gold/ape-female_gold_1.png,   Ape, f, s, Ape, Gold 1 | Gold,
+gold/ape-female_gold_2.png,   Ape, f, s, Ape, Gold 2 | Goldenrod,
+gold/ape-female_gold_3.png,   Ape, f, s, Ape, Gold 3 | Dark Goldenrod,
+
+
+gold/alien-male_gold_1.png,   Alien, m, l, Alien, Gold 1 | Gold,
+gold/alien-male_gold_2.png,   Alien, m, l, Alien, Gold 2 | Goldenrod,
+gold/alien-male_gold_3.png,   Alien, m, l, Alien, Gold 3 | Dark Goldenrod,
+
+gold/alien-female_gold_1.png,   Alien, f, s, Alien, Gold 1 | Gold,
+gold/alien-female_gold_2.png,   Alien, f, s, Alien, Gold 2 | Goldenrod,
+gold/alien-female_gold_3.png,   Alien, f, s, Alien, Gold 3 | Dark Goldenrod,
+
+
+gold/demon-male_gold_1.png,   Demon, m, l, Demon, Gold 1 | Gold,
+gold/demon-male_gold_2.png,   Demon, m, l, Demon, Gold 2 | Goldenrod,
+gold/demon-male_gold_3.png,   Demon, m, l, Demon, Gold 3 | Dark Goldenrod,
+
+gold/demon-female_gold_1.png,   Demon, f, s, Demon, Gold 1 | Gold,
+gold/demon-female_gold_2.png,   Demon, f, s, Demon, Gold 2 | Goldenrod,
+gold/demon-female_gold_3.png,   Demon, f, s, Demon, Gold 3 | Dark Goldenrod,
+
+
+gold/skeleton-male_gold_1.png,   Skeleton, m, l, Skeleton, Gold 1 | Gold,
+gold/skeleton-male_gold_2.png,   Skeleton, m, l, Skeleton, Gold 2 | Goldenrod,
+gold/skeleton-male_gold_3.png,   Skeleton, m, l, Skeleton, Gold 3 | Dark Goldenrod,
+
+gold/skeleton-female_gold_1.png,   Skeleton, f, s, Skeleton, Gold 1 | Gold,
+gold/skeleton-female_gold_2.png,   Skeleton, f, s, Skeleton, Gold 2 | Goldenrod,
+gold/skeleton-female_gold_3.png,   Skeleton, f, s, Skeleton, Gold 3 | Dark Goldenrod,
+
+
+####################
+# (more) planet of apes - archetypes
+
+planet-apes/ape-male-black.png,         Ape, m, l, Ape, Black
+planet-apes/ape-male-gray.png,          Ape, m, l, Ape, Gray
+planet-apes/ape-male-dark_brown.png,    Ape, m, l, Ape, Dark Brown
+planet-apes/ape-male-brown.png,         Ape, m, l, Ape, Brown
+planet-apes/ape-male-golden_brown.png,  Ape, m, l, Ape, Golden Brown
+planet-apes/ape-male-cheetah.png,       Ape, m, l, Ape, Cheetah
+planet-apes/ape-male-blue.png,          Ape, m, l, Ape, Blue
+planet-apes/ape-male-dmt.png,           Ape, m, l, Ape, DMT
+planet-apes/ape-male-pink.png,          Ape, m, l, Ape, Pink
+planet-apes/ape-male-red.png,           Ape, m, l, Ape, Red
+planet-apes/ape-male-tan.png,           Ape, m, l, Ape, Tan
+planet-apes/ape-male-cream.png,         Ape, m, l, Ape, Cream
+planet-apes/ape-male-white.png,         Ape, m, l, Ape, White
+planet-apes/ape-male-trippy.png,        Ape, m, l, Ape, Trippy
+planet-apes/ape-male-noise.png,         Ape, m, l, Ape, Noise
+planet-apes/ape-male-solid_gold.png,    Ape, m, l, Ape, Solid Gold
+
+planet-apes/ape-male-bot.png,          Ape, m, l, Ape,  Bot
+planet-apes/ape-male-death_bot.png,    Ape, m, l, Ape,  Death Bot
+
+
+######################################
+# alien invasion - archetypes
+
+
+alien-invasion/alien-male_0.png,       Alien, m, l, Alien,   0° | Red
+alien-invasion/alien-male_30.png,     Alien, m, l, Alien,   30° | Orange
+alien-invasion/alien-male_60.png,     Alien, m, l, Alien,   60° | Yellow
+alien-invasion/alien-male_90.png,     Alien, m, l, Alien,   90° | Yellow Green
+alien-invasion/alien-male_120.png,     Alien, m, l, Alien, 120° | Green
+alien-invasion/alien-male_150.png,     Alien, m, l, Alien, 150° | Cyan Green
+alien-invasion/alien-male_180.png,     Alien, m, l, Alien, 180° | Cyan
+alien-invasion/alien-male_210.png,     Alien, m, l, Alien, 210° | Cyan Blue
+alien-invasion/alien-male_240.png,     Alien, m, l, Alien, 240° | Blue
+alien-invasion/alien-male_270.png,     Alien, m, l, Alien, 270° | Violet
+alien-invasion/alien-male_300.png,     Alien, m, l, Alien, 300° | Magenta
+alien-invasion/alien-male_330.png,     Alien, m, l, Alien, 330° | Red Magenta
+
+alien-invasion/alien-ape-male_0.png,     Alien, m, l, Alien (Ape),     0° | Red
+alien-invasion/alien-ape-male_30.png,     Alien, m, l, Alien (Ape),   30° | Orange
+alien-invasion/alien-ape-male_60.png,     Alien, m, l, Alien (Ape),   60° | Yellow
+alien-invasion/alien-ape-male_90.png,     Alien, m, l, Alien (Ape),   90° | Yellow Green
+alien-invasion/alien-ape-male_120.png,     Alien, m, l, Alien (Ape), 120° | Green
+alien-invasion/alien-ape-male_150.png,     Alien, m, l, Alien (Ape), 150° | Cyan Green
+alien-invasion/alien-ape-male_180.png,     Alien, m, l, Alien (Ape), 180° | Cyan
+alien-invasion/alien-ape-male_210.png,     Alien, m, l, Alien (Ape), 210° | Cyan Blue
+alien-invasion/alien-ape-male_240.png,     Alien, m, l, Alien (Ape), 240° | Blue
+alien-invasion/alien-ape-male_270.png,     Alien, m, l, Alien (Ape), 270° | Violet
+alien-invasion/alien-ape-male_300.png,     Alien, m, l, Alien (Ape), 300° | Magenta
+alien-invasion/alien-ape-male_330.png,     Alien, m, l, Alien (Ape), 330° | Red Magenta
+
+alien-invasion/alien-female_0.png,      Alien, f, s, Alien,      0° | Red
+alien-invasion/alien-female_30.png,      Alien, f, s, Alien,    30° | Orange
+alien-invasion/alien-female_60.png,      Alien, f, s, Alien,    60° | Yellow
+alien-invasion/alien-female_90.png,      Alien, f, s, Alien,    90° | Yellow Green
+alien-invasion/alien-female_120.png,      Alien, f, s, Alien,  120° | Green
+alien-invasion/alien-female_150.png,      Alien, f, s, Alien,  150° | Cyan Green
+alien-invasion/alien-female_180.png,      Alien, f, s, Alien,  180° | Cyan
+alien-invasion/alien-female_210.png,      Alien, f, s, Alien,  210° | Cyan Blue
+alien-invasion/alien-female_240.png,      Alien, f, s, Alien,  240° | Blue
+alien-invasion/alien-female_270.png,      Alien, f, s, Alien,  270° | Violet
+alien-invasion/alien-female_300.png,      Alien, f, s, Alien,  300° | Magenta
+alien-invasion/alien-female_330.png,      Alien, f, s, Alien,  330° | Red Magenta
+
+
+
+
+##############################
+#  hack for now
+#   make faceless unisex - add again with f/m reversed
+#
+#   find a way to add without duplicating image in spritesheet - why? why not?
+
+faceless/human-ii_darker.png,    Human, m, l,    Human, 1-II,      Male 1-II
+faceless/human-ii_dark.png,      Human, m, l,    Human, 2-II,      Male 2-II
+faceless/human-ii_light.png,     Human, m, l,    Human, 3-II,      Male 3-II
+faceless/human-ii_lighter.png,   Human, m, l,    Human, 4-II,      Male 4-II
+1bit/human-ii.png,               Human, m, l,    Human, B&W II,    Male B&W II | Male 1-Bit II
+
+faceless/human-i_darker.png,     Human, f, l,    Human, 1-II,      Female 1-II
+faceless/human-i_dark.png,       Human, f, l,    Human, 2-II,      Female 2-II
+faceless/human-i_light.png,      Human, f, l,    Human, 3-II,      Female 3-II
+faceless/human-i_lighter.png,    Human, f, l,    Human, 4-II,      Female 4-II
+1bit/human-i.png,                Human, f, l,    Human, B&W II,    Female B&W II | Female 1-Bit II

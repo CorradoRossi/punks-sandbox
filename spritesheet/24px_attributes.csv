@@ -1,0 +1,830 @@
+path,   gender, size,  name,  more_names
+
+
+############################
+# faceless - attributes
+
+faceless/u/eyebrows.png,     u, l,  Eyebrows
+faceless/u/eyes.png,         u, l,  Eyes
+faceless/u/mouth.png,        u, l,  Mouth
+faceless/u/nose.png,         u, l,  Nose
+faceless/u/nose_small.png,   u, l,  Nose Small, Small Nose
+
+
+faceless/f/mouth_darker.png,   f, u,  Mouth Darker,   Mouth 1
+faceless/f/mouth_dark.png,     f, u,  Mouth Dark,     Mouth 2
+faceless/f/mouth_light.png,    f, u,  Mouth Light,    Mouth 3
+faceless/f/mouth_lighter.png,  f, u,  Mouth Lighter,  Mouth 4
+
+faceless/f/smile_darker.png,   f, u,  Smile Darker,   Smile 1
+faceless/f/smile_dark.png,     f, u,  Smile Dark,     Smile 2
+faceless/f/smile_light.png,    f, u,  Smile Light,    Smile 3
+faceless/f/smile_lighter.png,  f, u,  Smile Lighter,  Smile 4
+faceless/f/smile_zombie.png,   f, u,  Smile Zombie
+
+faceless/f/frown_darker.png,   f, u,  Frown Darker,   Frown 1
+faceless/f/frown_dark.png,     f, u,  Frown Dark,     Frown 2
+faceless/f/frown_light.png,    f, u,  Frown Light,    Frown 3
+faceless/f/frown_lighter.png,  f, u,  Frown Lighter,  Frown 4
+faceless/f/frown_zombie.png,   f, u,  Frown Zombie
+
+
+
+###########################
+# basic - attributes
+
+
+## - Eyes
+
+basic/m/3dglasses.png,    u,l,  3D Glasses
+basic/f/3dglasses.png,   f,s,  3D Glasses
+basic/m/bigshades.png,    u,l,  Big Shades
+basic/f/bigshades.png,   f,s,  Big Shades
+basic/m/classicshades.png,    u,l,  Classic Shades
+basic/f/classicshades.png,   f,s,  Classic Shades
+basic/m/eyemask.png,    u,l,  Eye Mask
+basic/f/eyemask.png,   f,s,   Eye Mask
+basic/m/eyepatch.png,    u,l, Eye Patch
+basic/f/eyepatch.png,   f,s,  Eye Patch
+basic/m/hornedrimglasses.png,    u,l, Horned Rim Glasses
+basic/f/hornedrimglasses.png,   f,s,  Horned Rim Glasses
+basic/m/nerdglasses.png,    u,l,   Nerd Glasses
+basic/f/nerdglasses.png,   f,s,    Nerd Glasses
+basic/m/regularshades.png,    u,l,     Regular Shades
+basic/m/regularshades-reflective.png,    u,l,     Regular Reflective Shades, Regular Shades Reflective
+basic/f/regularshades.png,   f,s,      Regular Shades
+basic/m/smallshades.png,    u,l,       Small Shades
+basic/f/smallshades.png,   f,s,        Small Shades
+basic/m/vr.png,    u,l,              VR
+basic/f/vr.png,   f,s,               VR
+basic/f/weldinggoggles.png,   f,s,   Welding Goggles
+
+more/m/heartshades.png,    u,l,          Heart Shades
+more/f/heartshades.png,   f,s,           Heart Shades
+more/m/skigoogles.png,    u,l,           Ski Googles
+more/f/skigoogles.png,    f,s,           Ski Googles
+
+more/m/lasereyes.png,        u,l,       Laser Eyes, Laser Eyes Red
+more/f/lasereyes.png,        f,s,       Laser Eyes, Laser Eyes Red
+more/m/lasereyesgold.png,    u,l,       Laser Eyes Gold
+more/f/lasereyesgold.png,    f,s,       Laser Eyes Gold
+more/m/lasereyes-blue.png,   u,l,       Laser Eyes Blue
+
+more/m/tears.png,    u,l,               Tears
+more/f/tears.png,    f,s,               Tears
+
+
+
+## - Eyes (Makeup)
+
+basic/f/blueeyeshadow.png,      f,s,  Blue Eye Shadow
+basic/f/greeneyeshadow.png,     f,s,  Green Eye Shadow
+unisize/f/greeneyeshadow.png,   f,l,  Green Eye Shadow
+basic/f/purpleeyeshadow.png,    f,s,  Purple Eye Shadow
+
+basic/m/clowneyesblue.png,    u,l,  Clown Eyes Blue
+basic/f/clowneyesblue.png,    f,s,  Clown Eyes Blue
+basic/m/clowneyesgreen.png,   u,l,  Clown Eyes Green
+basic/f/clowneyesgreen.png,   f,s,  Clown Eyes Green
+
+more/m/clowneyes_purple.png,  u,l,  Clown Eyes Purple
+more/f/clowneyes_purple.png,  f,s,  Clown Eyes Purple
+
+
+
+
+## - Blemishes
+
+basic/m/mole.png,    u,l,          Mole
+basic/f/mole.png,   f,,           Mole
+basic/m/rosycheeks.png,    u,l,        Rosy Cheeks
+basic/f/rosycheeks.png,   f,,         Rosy Cheeks
+basic/m/spots.png,    u,l,             Spots
+basic/f/spots.png,   f,,              Spots
+
+
+## - Nose
+
+basic/m/clownnose.png,    u,l,  Clown Nose,  Clown Nose Red
+basic/f/clownnose.png,   f,s,   Clown Nose,  Clown Nose Red
+
+more/m/clownnose_blue.png,  u,l,  Clown Nose Blue
+more/f/clownnose_blue.png,  f,s,  Clown Nose Blue
+more/m/clownnose_green.png,  u,l,  Clown Nose Green
+more/f/clownnose_green.png,  f,s,  Clown Nose Green
+
+
+## - Ears
+
+basic/m/earring.png,    u,l,  Earring,  Gold Earring
+basic/f/earring.png,   f,s,   Earring,  Gold Earring
+
+more/m/silverearring.png,    u,l,       Silver Earring
+more/f/silverearring.png,  f,s,         Silver Earring
+
+
+
+## - Mouth (Teeth)
+
+basic/m/buckteeth.png,    m,,  Buck Teeth
+
+## - Mouth (Emotion)
+
+basic/m/frown.png,    m,,           Frown
+basic/m/smile.png,    m,,             Smile
+
+## - Mouth (Makeup)
+
+basic/f/blacklipstick.png,   f,u,  Black Lipstick
+basic/f/hotlipstick.png,   f,u,    Hot Lipstick
+basic/f/purplelipstick.png,   f,u,     Purple Lipstick
+
+more/f/pinklipstick.png,  f,u,          Pink Lipstick
+more/f/redlipstick.png,  f,u,           Red Lipstick
+
+## - Mouth Prop
+
+#####
+## todo/fix: change mouth prop to u/u  and remove female?
+##   (almost or all?) props fit unisex/unisize!!!
+
+basic/m/cigarette.png,    u,l,  Cigarette
+basic/f/cigarette.png,   f,s,   Cigarette
+basic/m/medicalmask.png,    u,l,    Medical Mask
+basic/f/medicalmask.png,   f,s,     Medical Mask
+basic/m/pipe.png,    u,l,         Pipe
+basic/f/pipe.png,   f,s,          Pipe
+basic/m/vape.png,    u,l,           Vape
+basic/f/vape.png,   f,s,            Vape
+
+more/m/bubblegum.png, u,l,         Bubble Gum
+more/f/bubblegum.png, f,s,         Bubble Gum
+more/m/cigar.png,    u,l,          Cigar
+more/f/cigar.png,    f,s,          Cigar
+
+
+## - Neck Accessory
+
+basic/f/choker.png,       f,u,    Choker
+basic/m/goldchain.png,    m,l,       Gold Chain
+basic/f/goldchain.png,     f,u,        Gold Chain
+basic/m/silverchain.png,    m,l,       Silver Chain
+basic/f/silverchain.png,   f,u,        Silver Chain
+
+more/m/golddiamondnecklace.png,    m,l,    Gold Diamond Chain, Gold Diamond Necklace
+more/f/golddiamondnecklace.png,    f,u,     Gold Diamond Chain, Gold Diamond Necklace
+
+
+## - Beard
+
+basic/m/bigbeard.png,     m,,  Big Beard
+basic/m/chinstrap.png,    m,,  Chinstrap
+basic/m/frontbeard.png,    m,,  Front Beard
+basic/m/frontbearddark.png,    m,,  Front Beard Dark
+basic/m/goat.png,    m,,            Goat
+basic/m/handlebars.png,    m,,      Handlebars
+basic/m/luxuriousbeard.png,    m,,  Luxurious Beard
+basic/m/luxurious_white_beard.png,    m,, Luxurious Beard White,  Luxurious White Beard
+basic/m/messy_white_beard.png,    m,,  Messy Beard White,  Messy White Beard
+basic/m/mustache.png,    m,,      Mustache
+basic/m/muttonchops.png,    m,,   Muttonchops
+basic/m/normalbeard.png,    m,,  Normal Beard
+basic/m/normalbeardblack.png,    m,,  Normal Beard Black
+basic/m/normal_white_beard.png,    m,, Normal Beard White,  Normal White Beard
+basic/m/shadowbeard.png,    m,,       Shadow Beard
+basic/m/short_white_beard.png,    m,,  Short Beard White,  Short White Beard
+
+
+## - Hat & More
+
+basic/m/bandana.png,      u,l,  Bandana
+basic/f/bandana.png,      f,,    Bandana
+basic/m/beanie.png,       u,l,  Beanie
+basic/f/beanie.png,        f,,   Beanie
+basic/m/capforward.png,    u,l, Cap Forward
+basic/f/capforward.png,   f,, Cap Forward
+basic/m/cowboyhat.png,    u,l,  Cowboy Hat
+basic/f/cowboyhat.png,    f,,   Cowboy Hat
+basic/m/dorag.png,        u,l,    Do-rag
+basic/f/dorag.png,         f,,     Do-rag
+basic/m/fedora.png,        u,l,    Fedora,   Fedora 1
+basic/f/fedora.png,        f,,      Fedora,  Fedora 1
+basic/m/headband.png,       u,l,        Headband
+basic/f/blackwithheadband.png,  f,s,         Headband, Headband 1 | Black with Headband
+basic/f/headband.png,           f,s,         Headband 2
+basic/m/hoodie.png,         m,,          Hoodie
+unisize/f/hoodie.png,       f,l,         Hoodie
+basic/f/hoodie.png,         f,s,           Hoodie
+basic/m/knittedcap.png,    u,l,    Knitted Cap
+basic/f/knittedcap.png,   f,,     Knitted Cap
+basic/f/pilothelmet.png,   f,,  Pilot Helmet
+basic/m/policecap.png,    u,l,    Police Cap
+basic/f/policecap.png,   f,,     Police Cap
+basic/f/tasslehat.png,   f,,           Tassle Hat
+basic/f/tiara.png,   f,,              Tiara
+basic/m/tophat.png,    u,l,            Top Hat
+basic/f/tophat.png,   f,,             Top Hat
+
+
+
+more/demon-male_horns.png,    u,l,   Demon Horns
+more/demon-female_horns.png,  f,s,   Demon Horns
+
+more/m/bearhood.png,    m,,  Bear Hood
+more/f/bearhood.png,  f,,      Bear Hood
+more/m/birthdayhat.png,    u,l,    Birthday Hat
+more/f/birthdayhat.png,  f,s,      Birthday Hat
+more/f/bow.png,  f,s,              Bow
+more/m/crown.png,    u,l,          Crown
+more/f/crown.png,  f,s,            Crown
+more/f/flowers.png,  f,s,          Flowers
+more/m/froghood.png,    m,,       Frog Hood
+more/f/froghood.png,  f,,           Frog Hood
+more/m/jesterhat.png,    u,l,           Jester Hat
+more/f/jesterhat.png,  f,s,             Jester Hat
+more/m/santahat.png,    u,l,            Santa Hat
+more/f/santahat.png,  f,s,              Santa Hat
+more/m/sombrero.png,    u,l,           Sombrero, Sombrero 1
+more/f/sombrero.png,  f,s,             Sombrero, Sombrero 1
+more/m/sunhat.png,    u,l,             Sun Hat
+more/f/sunhat.png,  f,s,               Sun Hat
+more/f/superherotiara.png,  f,s,       Superhero Tiara
+more/m/vikinghelmet.png,    u,l,       Viking Helmet
+more/f/vikinghelmet.png,  f,s,         Viking Helmet
+more/m/winterhat.png,    u,l,          Winter Hat
+more/f/winterhat.png,  f,s,            Winter Hat
+more/m/wizardhat.png,    u,l,          Wizard Hat
+
+
+
+
+##########################
+# int'l headwear - attributes
+
+intl/m/australiancorkhat.png,   m,,    Australian Cork Hat
+intl/f/australiancorkhat.png,   f,,    Australian Cork Hat
+intl/m/ayam.png,                m,,    Ayam
+intl/f/ayam.png,                f,,    Ayam
+intl/m/bamboohat.png,           m,,    Bamboo Hat
+intl/f/bamboohat.png,           f,,    Bamboo Hat
+intl/m/baseballcap.png,         m,,    Baseball Cap
+intl/f/baseballcap.png,         f,,    Baseball Cap
+intl/m/bearskin.png,            m,,    Bear Skin
+intl/f/bearskin.png,            f,,    Bear Skin
+intl/m/beerbong.png,            m,,    Beer Bong
+intl/f/beerbong.png,            f,,    Beer Bong
+intl/m/beret.png,               m,,    Beret
+intl/f/beret.png,               f,,    Beret
+intl/m/boater.png,              m,,    Boater
+intl/f/boater.png,              f,,    Boater
+intl/m/bororo.png,              m,,    Bororo
+intl/f/bororo.png,              f,,    Bororo
+intl/m/chichakhelmet.png,       m,,    Chichak Helmet
+intl/f/chichakhelmet.png,       f,,    Chichak Helmet
+intl/m/chineselandlordshat.png, m,,    Chinese Landlords Hat
+intl/f/chineselandlordshat.png, f,,    Chinese Landlords Hat
+intl/m/chullo.png,              m,,    Chullo
+intl/f/chullo.png,              f,,    Chullo
+intl/m/fedora.png,              m,,    Fedora 2      # note: alternative to basic
+intl/f/fedora.png,              f,,    Fedora 2
+intl/m/fez.png,                 m,,    Fez
+intl/f/fez.png,                 f,,    Fez
+intl/m/fishermancap.png,        m,,    Fisherman Cap
+intl/f/fishermancap.png,        f,,    Fisherman Cap
+intl/m/flamencohat.png,         m,,    Flamenco Hat
+intl/f/flamencohat.png,         f,,    Flamenco Hat
+intl/m/flowercrown.png,         m,,    Flower Crown
+intl/f/flowercrown.png,         f,,    Flower Crown
+intl/m/gat.png,                 m,,    Gat
+intl/f/gat.png,                 f,,    Gat
+intl/m/gaucho.png,              m,,    Gaucho
+intl/f/gaucho.png,              f,,    Gaucho
+intl/m/hennin.png,              m,,    Hennin
+intl/f/hennin.png,              f,,    Hennin
+intl/m/isicholo.png,            m,,    Isicholo
+intl/f/isicholo.png,            f,,    Isicholo
+intl/m/jaapi.png,               m,,    Jaapi
+intl/f/jaapi.png,               f,,    Jaapi
+intl/m/keffiyeh.png,            m,,    Keffiyeh
+intl/f/keffiyeh.png,            f,,    Keffiyeh
+intl/m/krakowiak.png,           m,,    Krakowiak
+intl/f/krakowiak.png,           f,,    Krakowiak
+intl/m/misangocap.png,          m,,    Misango Cap
+intl/f/misangocap.png,          f,,    Misango Cap
+intl/m/newsboycap.png,          m,,    Newsboy Cap
+intl/m/panamahat.png,           m,,    Panama Hat
+intl/f/panamahat.png,           f,,    Panama Hat
+intl/m/rasta.png,               m,,    Rasta
+intl/f/rasta.png,               f,,    Rasta
+intl/f/royalcocktailhat.png,    f,,    Royal Cocktail Hat
+intl/m/sibenik.png,             m,,    Sibenik
+intl/f/sibenik.png,             f,,    Sibenik
+intl/m/sombrero.png,            m,,    Sombrero 2     # note: alternative to more
+intl/f/sombrero.png,            f,,    Sombrero 2
+intl/m/tamoshanter.png,         m,,    Tam-O-Shanter
+intl/f/tamoshanter.png,         f,,    Tam-O-Shanter
+intl/m/trapperhat.png,          m,,    Trapper Hat
+intl/f/trapperhat.png,          f,,    Trapper Hat
+intl/m/tuque.png,               m,,    Tuque
+intl/f/tuque.png,               f,,    Tuque
+intl/m/turban.png,              m,,    Turban
+intl/f/turban.png,              f,,    Turban
+intl/m/tyrolean.png,            m,,    Tyrolean
+intl/f/tyrolean.png,            f,,    Tyrolean
+intl/m/ushanka.png,             m,,    Ushanka
+intl/f/ushanka.png,             f,,    Ushanka
+intl/m/vikinghat.png,           m,,    Viking Hat
+intl/f/vikinghat.png,           f,,    Viking Hat
+
+
+##########################
+# int'l headwear - saudis & habibtis of saudis - attributes
+
+saudis/m/white_shemagh.png,                    m,, White Shemagh
+saudis/m/white_shemagh_agal.png,               m,, White Shemagh & Agal
+saudis/m/white_shemagh_gold_agal.png,          m,, White Shemagh & Gold Agal
+saudis/m/white_shemagh_stylish_gold_agal.png,  m,, White Shemagh & Stylish Gold Agal
+saudis/m/white_shemagh_crown.png,              m,, White Shemagh & Crown
+saudis/m/brown_shemagh_agal.png,               m,, Brown Shemagh & Agal
+saudis/m/brown_shemagh_crown.png,              m,, Brown Shemagh & Crown
+saudis/m/red_shemagh.png,                      m,, Red Shemagh
+saudis/m/red_shemagh_agal.png,                 m,, Red Shemagh & Agal
+saudis/m/red_shemagh_crown.png,                m,, Red Shemagh & Crown
+
+saudis/f/niquab-black.png,                     f,, Niquab Black
+saudis/f/niquab-blue.png,                      f,, Niquab Blue
+
+##########################
+# int'l headwear - jews - attributes
+
+jews/m/hat1.png,  m,, Jewish Hat 1
+jews/m/hat2.png,  m,, Jewish Hat 2
+jews/m/hat3.png,  m,, Jewish Hat 3
+jews/m/hat4.png,  m,, Jewish Hat 4
+jews/m/hat5.png,  m,, Jewish Hat 5
+
+
+
+###################
+# all caps - attributes
+
+## note - move cap from basic here
+basic/m/cap.png,        u,l,  Cap
+basic/f/cap.png,        f,s,  Cap
+
+
+all-caps/m/cap_0.png,  u,l,  Cap 0°, Cap Red
+all-caps/f/cap_0.png,  f,s,  Cap 0°, Cap Red
+
+all-caps/m/cap_30.png, u,l,  Cap 30°, Cap Orange
+all-caps/f/cap_30.png, f,s,  Cap 30°, Cap Orange
+
+all-caps/m/cap_60.png, u,l,  Cap 60°, Cap Yellow
+all-caps/f/cap_60.png, f,s,  Cap 60°, Cap Yellow
+
+all-caps/m/cap_90.png, u,l,  Cap 90°, Cap Yellow Green
+all-caps/f/cap_90.png, f,s,  Cap 90°, Cap Yellow Green
+
+all-caps/m/cap_120.png, u,l,  Cap 120°, Cap Green
+all-caps/f/cap_120.png, f,s,  Cap 120°, Cap Green
+
+all-caps/m/cap_150.png, u,l,  Cap 150°, Cap Cyan Green
+all-caps/f/cap_150.png, f,s,  Cap 150°, Cap Cyan Green
+
+all-caps/m/cap_180.png, u,l,  Cap 180°, Cap Cyan
+all-caps/f/cap_180.png, f,s,  Cap 180°, Cap Cyan
+
+all-caps/m/cap_210.png, u,l,  Cap 210°, Cap Cyan Blue
+all-caps/f/cap_210.png, f,s,  Cap 210°, Cap Cyan Blue
+
+all-caps/m/cap_240.png, u,l,  Cap 240°, Cap Blue
+all-caps/f/cap_240.png, f,s,  Cap 240°, Cap Blue
+
+all-caps/m/cap_270.png, u,l,  Cap 270°, Cap Violet
+all-caps/f/cap_270.png, f,s,  Cap 270°, Cap Violet
+
+all-caps/m/cap_300.png, u,l,  Cap 300°, Cap Magenta
+all-caps/f/cap_300.png, f,s,  Cap 300°, Cap Magenta
+
+all-caps/m/cap_330.png, u,l,  Cap 330°, Cap Red Magenta
+all-caps/f/cap_330.png, f,s,  Cap 330°, Cap Red Magenta
+
+
+###################
+# fast food caps & more - attributes
+
+fastfood/m/cap-br.png,              u,l, Cap Br,         Cap Baskin-Robbins
+fastfood/m/cap-br_flipped.png,      u,l, Cap Br Flipped, Cap Baskin-Robbins Flipped
+fastfood/f/cap-br.png,              f,s, Cap Br,         Cap Baskin-Robbins
+fastfood/f/cap-br_flipped.png,      f,s, Cap Br Flipped, Cap Baskin-Robbins Flipped
+
+fastfood/m/cap-brk.png,             u,l, Cap Brk,         Cap Burger King
+fastfood/m/cap-brk_flipped.png,     u,l  Cap Brk Flipped, Cap Burger King Flipped
+fastfood/f/cap-brk.png,             f,s, Cap Brk,         Cap Burger King
+fastfood/f/cap-brk_flipped.png,     f,s  Cap Brk Flipped, Cap Burger King Flipped
+
+fastfood/m/cap-castle.png,          u,l, Cap Castle,          Cap White Castle
+fastfood/m/cap-castle_flipped.png,  u,l, Cap Castle Flipped,  Cap White Castle Flipped
+fastfood/f/cap-castle.png,          f,s, Cap Castle,          Cap White Castle
+fastfood/f/cap-castle_flipped.png,  f,s, Cap Castle Flipped,  Cap White Castle Flipped
+
+fastfood/m/cap-dom.png,             u,l, Cap Dom,          Cap Domino's | Cap Domino's Pizza
+fastfood/m/cap-dom_flipped.png,     u,l, Cap Dom Flipped,  Cap Domino's Flipped | Cap Domino's Pizza Flipped
+fastfood/f/cap-dom.png,             f,s, Cap Dom,          Cap Domino's | Cap Domino's Pizza
+fastfood/f/cap-dom_flipped.png,     f,s, Cap Dom Flipped,  Cap Domino's Flipped | Cap Domino's Pizza Flipped
+
+fastfood/m/cap-dunk.png,            u,l, Cap Dunk,           Cap Dunkin' | Cap Dunkin' Donuts
+fastfood/m/cap-dunk_flipped.png,    u,l, Cap Dunk Flipped,   Cap Dunkin' Flipped | Cap Dunkin' Donuts Flipped
+fastfood/f/cap-dunk.png,            f,s, Cap Dunk,           Cap Dunkin' | Cap Dunkin' Donuts
+fastfood/f/cap-dunk_flipped.png,    f,s, Cap Dunk Flipped,   Cap Dunkin' Flipped | Cap Dunkin' Donuts Flipped
+
+fastfood/m/cap-hut.png,             u,l, Cap Hut,            Cap Pizza Hut
+fastfood/m/cap-hut_flipped.png,     u,l, Cap Hut Flipped,    Cap Pizza Hut Flipped
+fastfood/f/cap-hut.png,             f,s, Cap Hut,            Cap Pizza Hut
+fastfood/f/cap-hut_flipped.png,     f,s, Cap Hut Flipped,    Cap Pizza Hut Flipped
+
+fastfood/m/cap-jack.png,            u,l, Cap Jack,           Cap Jack in the Box
+fastfood/m/cap-jack_flipped.png,    u,l, Cap Jack Flipped,   Cap Jack in the Box Flipped
+fastfood/f/cap-jack.png,            f,s, Cap Jack,           Cap Jack in the Box
+fastfood/f/cap-jack_flipped.png,    f,s, Cap Jack Flipped,   Cap Jack in the Box Flipped
+
+fastfood/m/cap-kentucky.png,         u,l, Cap Kentucky,        Cap KFC | Cap Kentucky Fried Chicken
+fastfood/m/cap-kentucky_flipped.png, u,l, Cap Kentucky Flipped, Cap KFC Flipped | Cap Kentucky Fried Chicken Flipped
+fastfood/f/cap-kentucky.png,         f,s, Cap Kentucky,        Cap KFC | Cap Kentucky Fried Chicken
+fastfood/f/cap-kentucky_flipped.png, f,s, Cap Kentucky Flipped, Cap KFC Flipped | Cap Kentucky Fried Chicken Flipped
+
+fastfood/m/cap-m-red.png,            u,l, Cap M,         Cap McDonald's | Cap M Red | Cap McDonald's Red
+fastfood/m/cap-m-red_flipped.png,    u,l, Cap M Flipped,  Cap McDonald's Flipped | Cap M Red Flipped | Cap McDonald's Red Flipped
+fastfood/m/cap-m-white.png,           u,l, Cap M White,      Cap McDonald's White
+fastfood/m/cap-m-white_flipped.png,  u,l, Cap M White Flipped,  Cap McDonald's White Flipped
+fastfood/m/cap-m-gray.png,           u,l, Cap M Gray,      Cap McDonald's Gray
+fastfood/m/cap-m-gray_flipped.png,   u,l, Cap M Gray Flipped,      Cap McDonald's Gray Flipped
+fastfood/m/cap-m-black.png,          u,l, Cap M Black,      Cap McDonald's Black
+fastfood/m/cap-m-black_flipped.png,  u,l, Cap M Black Flipped,      Cap McDonald's Black Flipped
+fastfood/f/cap-m-red.png,            f,s, Cap M,         Cap McDonald's | Cap M Red | Cap McDonald's Red
+fastfood/f/cap-m-red_flipped.png,    f,s, Cap M Flipped,  Cap McDonald's Flipped | Cap M Red Flipped | Cap McDonald's Red Flipped
+fastfood/f/cap-m-white.png,           f,s, Cap M White,      Cap McDonald's White
+fastfood/f/cap-m-white_flipped.png,  f,s, Cap M White Flipped,  Cap McDonald's White Flipped
+fastfood/f/cap-m-gray.png,           f,s, Cap M Gray,      Cap McDonald's Gray
+fastfood/f/cap-m-gray_flipped.png,   f,s, Cap M Gray Flipped,      Cap McDonald's Gray Flipped
+fastfood/f/cap-m-black.png,          f,s, Cap M Black,      Cap McDonald's Black
+fastfood/f/cap-m-black_flipped.png,  f,s, Cap M Black Flipped,      Cap McDonald's Black Flipped
+
+fastfood/m/cap-sub.png,             u,l, Cap Sub,    Cap Subway
+fastfood/m/cap-sub_flipped.png,     u,l, Cap Sub Flipped,    Cap Subway Flipped
+fastfood/f/cap-sub.png,             f,s, Cap Sub,    Cap Subway
+fastfood/f/cap-sub_flipped.png,     f,s, Cap Sub Flipped,    Cap Subway Flipped
+
+fastfood/m/cap-w.png,               u,l, Cap W,    Cap Wendy's
+fastfood/m/cap-w_flipped.png,       u,l, Cap W Flipped,    Cap Wendy's Flipped
+fastfood/f/cap-w.png,               f,s, Cap W,    Cap Wendy's
+fastfood/f/cap-w_flipped.png,       f,s, Cap W Flipped,    Cap Wendy's Flipped
+
+
+fastfood/m/bucket-m-red.png,        u,l, Bucket Hat M, Bucket Hat McDonald's
+fastfood/m/cowboy-m-red.png,        u,l, Cowboy Hat M, Cowboy Hat McDonald's
+fastfood/m/crown-brk.png,           u,l, Crown Brk,    Crown Burger King | Burger King Crown
+fastfood/m/safari-kentucky.png,     u,l, Safari Hat Kentucky, Safari Hat KFC | Safari Hat Kentucky Fried Chicken
+
+
+
+##################
+# basic hair - attributes
+
+basic/f/blondeshort.png,   f,, Blonde Short
+basic/m/crazyhair.png,    m,l,  Crazy Hair
+basic/f/crazyhair.png,   f,s,   Crazy Hair
+unisize/f/crazyhair.png,  f,l,  Crazy Hair
+basic/f/darkhair.png,   f,,    Dark Hair
+basic/m/frumpyhair.png,    m,,       Frumpy Hair
+basic/f/frumpyhair.png,   f,,       Frumpy Hair
+basic/f/halfshaved.png,   f,,       Half Shaved
+
+basic/m/messyhair.png,    u,l,     Messy Hair
+basic/f/messyhair.png,   f,s,     Messy Hair
+basic/m/mohawk.png,    u,l,     Mohawk
+basic/f/mohawk.png,   f,s,      Mohawk
+basic/m/mohawkdark.png,    u,l,   Mohawk Dark
+basic/f/mohawkdark.png,   f,s,    Mohawk Dark
+basic/m/mohawkthin.png,    u,l,   Mohawk Thin
+basic/f/mohawkthin.png,   f,s,    Mohawk Thin
+
+basic/f/orangeside.png,   f,,   Orange Side
+basic/m/peakspike.png,    m,,   Peak Spike
+basic/f/pigtails.png,   f,,     Pigtails
+basic/f/pinkwithhat.png,   f,,  Pink with Hat
+basic/m/purplehair.png,    m,,       Purple Hair
+basic/f/purplehair.png,   f,,        Purple Hair
+basic/f/redmohawk.png,   f,,          Red Mohawk
+basic/m/shavedhead.png,    u,l,        Shaved Head
+basic/f/shavedhead.png,   f,,         Shaved Head
+basic/f/straighthair.png,   f,,        Straight Hair
+basic/f/straighthairblonde.png,   f,,  Straight Hair Blonde
+basic/f/straighthairdark.png,   f,,    Straight Hair Dark
+basic/m/stringyhair.png,    u,l,         Stringy Hair
+basic/f/stringyhair.png,   f,,          Stringy Hair
+basic/m/vampirehair.png,    m,,     Vampire Hair
+basic/f/wildblonde.png,   f,,        Wild Blonde
+basic/m/wildhair.png,    m,,        Wild Hair
+basic/f/wildhair.png,   f,s,         Wild Hair
+unisize/f/wildhair.png,   f,l,         Wild Hair
+basic/f/wildwhitehair.png,   f,,    Wild White Hair
+
+
+
+###################
+# more hair - attributes
+
+### -- Afro (m/f)
+hair/m/black/afro.png,  u,l,   Black Afro
+hair/f/black/afro.png, f,, Black Afro
+
+  hair/m/brown/afro.png,  u,l,   Brown Afro
+  hair/m/darkred/afro.png, u,l,  Dark Red Afro
+  hair/m/orange/afro.png, u,l, Orange Afro
+  hair/m/red/afro.png, u,l, Red Afro
+  hair/m/pink/afro.png, u,l, Pink Afro
+  hair/m/purple/afro.png, u,l,  Purple Afro
+  hair/m/blue/afro.png, u,l,  Blue Afro
+  hair/m/periwinkle/afro.png, u,l, Periwinkle Afro
+  hair/m/lightblue/afro.png, u,l, Light Blue Afro
+  hair/m/lightgreen/afro.png, u,l, Light Green Afro
+  hair/m/green/afro.png, u,l,  Green Afro
+  hair/m/teal/afro.png, u,l,  Teal Afro
+  hair/m/blonde/afro.png, u,l,  Blonde Afro
+  hair/m/silver/afro.png, u,l,  Silver Afro
+  hair/m/white/afro.png, u,l,  White Afro
+
+  hair/f/brown/afro.png, f,, Brown Afro
+  hair/f/darkred/afro.png, f,, Dark Red Afro
+  hair/f/orange/afro.png, f,, Orange Afro
+  hair/f/red/afro.png, f,, Red Afro
+  hair/f/pink/afro.png, f,, Pink Afro
+  hair/f/purple/afro.png, f,, Purple Afro
+  hair/f/blue/afro.png, f,, Blue Afro
+  hair/f/periwinkle/afro.png, f,, Periwinkle Afro
+  hair/f/lightblue/afro.png, f,, Light Blue Afro
+  hair/f/lightgreen/afro.png, f,, Light Green Afro
+  hair/f/green/afro.png, f,, Green Afro
+  hair/f/teal/afro.png, f,, Teal Afro
+  hair/f/blonde/afro.png, f,, Blonde Afro
+  hair/f/silver/afro.png, f,, Silver Afro
+  hair/f/white/afro.png, f,, White Afro
+
+
+
+### -- Big (m/f)
+hair/m/black/big.png,  u,l, Big Hair Black
+hair/f/black/big.png, f,, Big Hair Black
+
+  hair/m/brown/big.png, u,l, Big Hair Brown
+  hair/m/darkred/big.png, u,l, Big Hair Dark Red
+  hair/m/orange/big.png, u,l, Big Hair Orange
+  hair/m/red/big.png, u,l, Big Hair Red
+  hair/m/pink/big.png, u,l, Big Hair Pink
+  hair/m/purple/big.png, u,l,  Big Hair Purple
+  hair/m/blue/big.png, u,l,  Big Hair Blue
+  hair/m/periwinkle/big.png, u,l,  Big Hair Periwinkle
+  hair/m/lightblue/big.png, u,l,  Big Hair Light Blue
+  hair/m/lightgreen/big.png, u,l, Big Hair Light Green
+  hair/m/green/big.png, u,l,  Big Hair Green
+  hair/m/teal/big.png, u,l,  Big Hair Teal
+  hair/m/blonde/big.png, u,l,  Big Hair Blonde
+  hair/m/silver/big.png, u,l, Big Hair Silver
+  hair/m/white/big.png, u,l, Big Hair White
+
+  hair/f/brown/big.png, f,, Big Hair Brown
+  hair/f/darkred/big.png, f,,  Big Hair Dark Red
+  hair/f/orange/big.png, f,,  Big Hair Orange
+  hair/f/red/big.png, f,,  Big Hair Red
+  hair/f/pink/big.png, f,,  Big Hair Pink
+  hair/f/purple/big.png, f,, Big Hair Purple
+  hair/f/blue/big.png, f,, Big Hair Blue
+  hair/f/periwinkle/big.png, f,, Big Hair Periwinkle
+  hair/f/lightblue/big.png, f,,  Big Hair Light Blue
+  hair/f/lightgreen/big.png, f,, Big Hair Light Green
+  hair/f/green/big.png, f,,  Big Hair Green
+  hair/f/teal/big.png, f,, Big Hair Teal
+  hair/f/blonde/big.png, f,, Big Hair Blonde
+  hair/f/silver/big.png, f,, Big Hair Silver
+  hair/f/white/big.png, f,, Big Hair White
+
+
+### -- Bob (f)
+
+
+hair/f/black/bob.png,  f,, Black Bob
+  hair/f/brown/bob.png, f,, Brown Bob
+  hair/f/darkred/bob.png, f,, Dark Red Bob
+  hair/f/orange/bob.png, f,, Orange Bob
+  hair/f/red/bob.png, f,, Red Bob
+  hair/f/pink/bob.png, f,, Pink Bob
+  hair/f/purple/bob.png, f,, Purple Bob
+  hair/f/blue/bob.png, f,, Blue Bob
+  hair/f/periwinkle/bob.png, f,, Periwinkle Bob
+  hair/f/lightblue/bob.png, f,, Light Blue Bob
+  hair/f/lightgreen/bob.png, f,, Light Green Bob
+  hair/f/green/bob.png, f,, Green Bob
+  hair/f/teal/bob.png, f,, Teal Bob
+  hair/f/silver/bob.png, f,, Silver Bob
+  hair/f/white/bob.png, f,, White Bob
+
+
+  unisize/f/blondebob.png,   f,l,   Blonde Bob
+
+  ## note: for easy "pixel perfect" copies keep the "old" attribute for blonde blond for now - why? why not?
+  basic/f/blondebob.png,   f,s,   Blonde Bob     ## todo/check/fix - change Blonde Bob to Hair Style II
+  hair/f/blonde/bob.png, f,s,  Blonder Bob,     ## note: changed for now to "Blonder bob" to not overwrite basic/f/blondebob!!!! - find a better/alt name -why? why not?
+
+
+
+### -- Buzz Cut (m/f)
+
+hair/m/black/buzzcut.png,  u,l, Black Buzz Cut
+hair/f/black/buzzcut.png,  f,, Black Buzz Cut
+
+  hair/m/brown/buzzcut.png,   u,l, Brown Buzz Cut
+  hair/m/darkred/buzzcut.png,   u,l, Dark Red Buzz Cut
+  hair/m/orange/buzzcut.png,   u,l, Orange Buzz Cut
+  hair/m/red/buzzcut.png,   u,l, Red Buzz Cut
+  hair/m/pink/buzzcut.png,   u,l, Pink Buzz Cut
+  hair/m/purple/buzzcut.png,   u,l, Purple Buzz Cut
+  hair/m/blue/buzzcut.png,   u,l, Blue Buzz Cut
+  hair/m/periwinkle/buzzcut.png,   u,l, Periwinkle Buzz Cut
+  hair/m/lightblue/buzzcut.png,   u,l, Light Blue Buzz Cut
+  hair/m/lightgreen/buzzcut.png,   u,l, Light Green Buzz Cut
+  hair/m/green/buzzcut.png,   u,l, Green Buzz Cut
+  hair/m/teal/buzzcut.png,   u,l, Teal Buzz Cut
+  hair/m/blonde/buzzcut.png,   u,l, Blonde Buzz Cut
+  hair/m/silver/buzzcut.png,   u,l, Silver Buzz Cut
+  hair/m/white/buzzcut.png,   u,l, White Buzz Cut
+
+  hair/f/brown/buzzcut.png,   f,,  Brown Buzz Cut
+  hair/f/darkred/buzzcut.png,   f,,  Dark Red Buzz Cut
+  hair/f/orange/buzzcut.png,   f,,  Orange Buzz Cut
+  hair/f/red/buzzcut.png,   f,,  Red Buzz Cut
+  hair/f/pink/buzzcut.png,   f,,  Pink Buzz Cut
+  hair/f/purple/buzzcut.png,   f,,  Purple Buzz Cut
+  hair/f/blue/buzzcut.png,   f,,  Blue Buzz Cut
+  hair/f/periwinkle/buzzcut.png,   f,,  Periwinkle Buzz Cut
+  hair/f/lightblue/buzzcut.png,   f,,  Light Blue Buzz Cut
+  hair/f/lightgreen/buzzcut.png,   f,, Light Green Buzz Cut
+  hair/f/green/buzzcut.png,   f,,  Green Buzz Cut
+  hair/f/teal/buzzcut.png,   f,,  Teal Buzz Cut
+  hair/f/blonde/buzzcut.png,   f,,  Blonde Buzz Cut
+  hair/f/silver/buzzcut.png,   f,,  Silver Buzz Cut
+  hair/f/white/buzzcut.png,   f,,  White Buzz Cut
+
+
+## -- Clown (m/f)
+
+# basic/m/clownhairgreen.png,    m,, Clown Hair Green
+# basic/f/clownhairgreen.png,   f,,  Clown Hair Green
+
+hair/m/black/clown.png,   m,,   Clown Hair Black
+hair/f/black/clown.png,   f,,  Clown Hair Black
+
+  hair/m/brown/clown.png,  m,, Clown Hair Brown
+  hair/m/darkred/clown.png,  m,, Clown Hair Dark Red
+  hair/m/orange/clown.png,  m,, Clown Hair Orange
+  hair/m/red/clown.png,  m,, Clown Hair Red
+  hair/m/pink/clown.png,  m,, Clown Hair Pink
+  hair/m/purple/clown.png,  m,, Clown Hair Purple
+  hair/m/blue/clown.png,  m,, Clown Hair Blue
+  hair/m/periwinkle/clown.png,  m,, Clown Hair Periwinkle
+  hair/m/lightblue/clown.png,  m,, Clown Hair Light Blue
+  hair/m/lightgreen/clown.png,  m,, Clown Hair Light Green
+  hair/m/green/clown.png,  m,, Clown Hair Green
+  hair/m/teal/clown.png,  m,, Clown Hair Teal
+  hair/m/blonde/clown.png,  m,, Clown Hair Blonde
+  hair/m/silver/clown.png,  m,, Clown Hair Silver
+  hair/m/white/clown.png,  m,, Clown Hair White
+
+  hair/f/brown/clown.png,  f,, Clown Hair Brown
+  hair/f/darkred/clown.png,  f,, Clown Hair Dark Red
+  hair/f/orange/clown.png,  f,, Clown Hair Orange
+  hair/f/red/clown.png,  f,, Clown Hair Red
+  hair/f/pink/clown.png,  f,, Clown Hair Pink
+  hair/f/purple/clown.png,  f,, Clown Hair Purple
+  hair/f/blue/clown.png,  f,, Clown Hair Blue
+  hair/f/periwinkle/clown.png,  f,, Clown Hair Periwinkle
+  hair/f/lightblue/clown.png,  f,, Clown Hair Light Blue
+  hair/f/lightgreen/clown.png,  f,, Clown Hair Light Green
+  hair/f/green/clown.png,  f,, Clown Hair Green
+  hair/f/teal/clown.png,  f,, Clown Hair Teal
+  hair/f/blonde/clown.png,  f,, Clown Hair Blonde
+  hair/f/silver/clown.png,  f,, Clown Hair Silver
+  hair/f/white/clown.png,  f,, Clown Hair White
+
+
+
+###########
+#  wallstreetbets
+
+  wallstreetbets/wallstreetbets-hair1.png,         m,, Wallstreetbets Hair 1, Wallstreetbets Hair
+  wallstreetbets/wallstreetbets-hair2.png,         m,, Wallstreetbets Hair 2, Wallstreetbets Crazy Hair
+  wallstreetbets/wallstreetbets-hair3.png,         m,, Wallstreetbets Hair 3
+  wallstreetbets/wallstreetbets-hair1_dark.png,    m,, Wallstreetbets Hair Dark 1, Wallstreetbets Hair Dark
+  wallstreetbets/wallstreetbets-hair2_dark.png,    m,, Wallstreetbets Hair Dark 2, Wallstreetbets Crazy Hair Dark
+  wallstreetbets/wallstreetbets-hair3_dark.png,    m,, Wallstreetbets Hair Dark 3
+
+###########
+#   rainbow hair
+
+  rainbow/m/rainbow-hair.png,  m,,   Rainbow Hair
+  rainbow/f/rainbow-hair.png,  f,,   Rainbow Hair
+
+
+
+####################
+# 1-bit black&white series
+
+1bit/u/tophat.png,              u,l,    Top Hat B&W
+1bit/f/tophat.png,              f,s,    Top Hat B&W
+
+1bit/u/3dglasses.png,           u,l,    3D Glasses B&W
+1bit/u/alien-eyes.png,          u,l,    Alien Eyes B&W
+1bit/u/ape-front.png,           u,l,    Ape Front B&W, Frankenstein Front B&W | Head Front B&W
+1bit/u/ape-nose.png,            u,l,    Ape Nose B&W
+1bit/u/bandana.png,             u,l,    Bandana B&W
+1bit/u/beanie.png,              u,l,    Beanie B&W
+1bit/u/bearhood.png,            u,l,    Bear Hood B&W
+1bit/u/bubblegum.png,           u,l,    Bubble Gum B&W
+1bit/u/cap.png,                 u,l,    Cap B&W
+1bit/u/capforward.png,          u,l,    Cap Forward B&W
+1bit/u/cigarette.png,           u,l,    Cigarette B&W
+1bit/u/clowneyes.png,           u,l,    Clown Eyes B&W
+1bit/u/clownnose.png,           u,l,    Clown Nose B&W
+1bit/u/cowboyhat.png,           u,l,    Cowboy Hat B&W
+1bit/u/crazyhair.png,           u,l,    Crazy Hair B&W
+1bit/u/earring.png,             u,l,    Earring B&W
+1bit/u/eyes.png,                u,l,    Eyes B&W
+1bit/u/fedora.png,             u,l,     Fedora B&W
+1bit/u/frown.png,           u,l,        Frown B&W
+1bit/u/frumpyhair.png,           u,l,   Frumpy Hair B&W
+1bit/u/headband.png,           u,l,     Headband B&W
+1bit/u/hearteyes.png,           u,l,    Heart Eyes B&W
+1bit/u/knittedcap.png,           u,l,   Knitted Cap B&W
+1bit/u/lasereyes.png,           u,l,    Laser Eyes B&W
+1bit/u/medicalmask.png,           u,l,  Medical Mask B&W
+1bit/u/messyhair.png,           u,l,    Messy Hair B&W
+1bit/u/mohawk.png,           u,l,       Mohawk B&W
+1bit/u/mouth.png,           u,l,        Mouth B&W
+1bit/u/mouth_big.png,       u,l,        Mouth Big B&W, Ape Mouth B&W | Alien Mouth B&W
+1bit/u/nose.png,           u,l,         Nose B&W
+1bit/u/nose_small.png,           u,l,   Nose Small B&W
+1bit/u/nose_up.png,              u,l,   Nose Up B&W,  Scream Nose B&W
+1bit/u/nose_up_big.png,         u,l,    Nose Up Big B&W, Alien Nose B&W
+1bit/u/orc-eyes.png,         u,l,        Orc Eyes B&W,    Frankenstein Eyes B&W
+1bit/u/orc-mouth.png,         u,l,       Orc Mouth B&W
+1bit/u/orc-mouth_small.png,    u,l,      Orc Mouth Small B&W
+1bit/u/orc-nose.png,         u,l,        Orc Nose B&W
+1bit/u/robot-eyes.png,         u,l,      Robot Eyes B&W
+1bit/u/robot-mouth.png,         u,l,     Robot Mouth B&W
+1bit/u/peakspike.png,           u,l,    Peak Spike B&W
+1bit/u/pipe.png,           u,l,         Pipe B&W
+1bit/u/policecap.png,           u,l,    Police Cap B&W
+1bit/u/regularshades.png,           u,l, Regular Shades B&W
+1bit/u/santahat.png,           u,l,      Santa Hat B&W
+1bit/u/scream-eyes.png,        u,l,      Scream Eyes B&W
+1bit/u/scream-mouth.png,       u,l,      Scream Mouth B&W
+1bit/u/skeleton-eyes.png,      u,l,      Skeleton Eyes B&W
+1bit/u/skeleton-mouth.png,     u,l,      Skeleton Mouth B&W, Frankenstein Mouth B&W
+1bit/u/smallshades.png,           u,l,   Small Shades B&W
+1bit/u/smile.png,           u,l,         Smile B&W
+1bit/u/smile_big.png,        u,l,         Smile Big B&W
+1bit/u/spots.png,           u,l,         Spots B&W
+1bit/u/sunhat.png,           u,l,        Sun Hat B&W
+1bit/u/vampire-mouth.png,       u,l,     Vampire Mouth B&W
+1bit/u/vampire-mouth_small.png,  u,l,    Vampire Mouth Small B&W
+1bit/u/vr.png,           u,l,            VR B&W
+1bit/u/zombie-eyes.png,  u,l,            Zombie Eyes B&W
+1bit/u/zombie-mouth.png, u,l,            Zombie Mouth B&W
+
+
+######
+# All natural "border-less/outline-less" series
+
+natural/m/bigbeard.png,      m,l,  Big Beard (Natural)
+natural/m/goat.png,          m,l,  Goat (Natural)
+
+natural/m/capforward.png,    u,l,  Cap Forward (Natural)
+natural/m/cigarette.png,     u,l,  Cigarette (Natural)
+natural/m/dorag.png,         u,l,  Do-rag (Natural)
+natural/m/earring.png,       u,l,  Earring (Natural),  Gold Earring (Natural)
+natural/m/headband.png,      u,l,  Headband (Natural)
+natural/m/knittedcap.png,    u,l,  Knitted Cap (Natural)
+natural/m/mohawk.png,        u,l,  Mohawk (Natural)
+natural/m/mohawkthin.png,    u,l,  Mohawk Thin (Natural)
+natural/m/pipe.png,          u,l,  Pipe (Natural)
+natural/m/policecap.png,     u,l,  Police Cap (Natural)
+natural/m/shavedhead.png,    u,l,  Shaved Head (Natural)
+natural/m/vr.png,            u,l,  VR (Natural)
+
+natural/f/cigarette.png,     f,s,  Cigarette (Natural)
+natural/f/earring.png,       f,s,  Earring (Natural),  Gold Earring (Natural)
+natural/f/mohawk.png,        f,s,  Mohawk (Natural)
+natural/f/mohawkthin.png,    f,s,  Mohawk Thin (Natural)
+natural/f/pipe.png,          f,s,  Pipe (Natural)
+
+
